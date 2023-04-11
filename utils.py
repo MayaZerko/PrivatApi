@@ -1,7 +1,11 @@
 from datetime import datetime, timedelta
-from typing import List
+
+
+
 
 from constants import AVAILABLE_CURRENCIES
+
+
 
 
 def get_days(console_arguments) -> int:
